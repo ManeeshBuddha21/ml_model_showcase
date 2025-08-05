@@ -21,7 +21,7 @@ A full-stack ML model deployment showcase using **FastAPI** for the backend and 
 
 ---
 
-## 🔍 Features
+##  Features
 
 - Upload input for ML prediction via a Flutter UI
 - View prediction results in real-time
@@ -100,7 +100,8 @@ Edit
 # backend/config/.env.example
 
 DATABASE_URL=sqlite:///./ml_logs.db
-🛠 Future Enhancements
+
+ Future Enhancements
 Plug in a real ML model (TensorFlow, PyTorch, etc.)
 
 Add user authentication (JWT or Firebase)
